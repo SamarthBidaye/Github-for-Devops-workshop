@@ -1,4 +1,4 @@
 print("Hii")
 print("Hello")
-print("hiiiiii")
-a=20
+print("compare Values origin")
+a=10
